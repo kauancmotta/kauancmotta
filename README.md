@@ -54,6 +54,7 @@ Também possuo experiência com Docker, CI/CD, observabilidade e ferramentas de 
 ### Infraestrutura & DevOps
 
 * Docker
+* Kubernetes
 * GitHub Actions
 * CI/CD
 * Kong API Gateway
