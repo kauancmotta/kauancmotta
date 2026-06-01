@@ -4,8 +4,6 @@
 
 ### Full Stack Developer | React • Node.js • TypeScript
 
-Experiência com aplicações web, APIs, CI/CD, observabilidade e infraestrutura moderna.
-
 [LinkedIn](https://www.linkedin.com/in/kauan-motta) • [Email](mailto:dev.kauan.motta@gmail.com)
 
 </div>
@@ -16,21 +14,21 @@ Experiência com aplicações web, APIs, CI/CD, observabilidade e infraestrutura
 
 Desenvolvedor Full Stack com experiência na construção e manutenção de aplicações web, APIs e integrações utilizando JavaScript e TypeScript.
 
-Atuação principal com React, Next.js, Vue.js e Node.js, participando do desenvolvimento de produtos, evolução de funcionalidades, integrações e melhorias contínuas em ambientes corporativos.
+Atuação principal com React, Next.js, Vue.js e Node.js em ambientes corporativos, participando da evolução de produtos, integrações e melhorias contínuas.
 
-Além do desenvolvimento de software, possuo experiência com Docker, CI/CD, observabilidade e ferramentas de infraestrutura como Kong API Gateway, ArgoCD e Coroot.
+Também possuo experiência com Docker, CI/CD, observabilidade e ferramentas de infraestrutura como Kong API Gateway, ArgoCD e Coroot.
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,ts,js,nestjs,express,postgres,mysql,mongodb,docker,githubactions,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,ts,nestjs,postgres,mysql,mongodb,docker,githubactions,kubernetes,git" />
 </p>
 
 ---
 
-## Experiência
+## Tecnologias e Ferramentas
 
 ### Frontend
 
@@ -86,8 +84,4 @@ Além do desenvolvimento de software, possuo experiência com Docker, CI/CD, obs
 
 ## Projetos em Destaque
 
-Em atualização.
-
-Atualmente organizando e documentando projetos para refletir melhor minha experiência com desenvolvimento Full Stack.
-
-</div>
+Em processo de reorganização e documentação dos principais projetos para refletir melhor experiências com aplicações Full Stack, APIs e infraestrutura.
