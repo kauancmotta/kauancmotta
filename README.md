@@ -66,10 +66,6 @@ Também possuo experiência com Docker, CI/CD, observabilidade e ferramentas de 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kauancmotta&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauancmotta&theme=github-compact&hide_border=true" />
 </p>
 
