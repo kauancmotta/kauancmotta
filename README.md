@@ -42,10 +42,9 @@
 * AWS
 * Kubernetes
 * ArgoCD
+* Coroot
 * Terraform
 * Service Mesh (Istio)
 * Docker
 * GitHub Actions
 * CI/CD
-* ArgoCD
-* Coroot
