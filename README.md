@@ -28,8 +28,7 @@
 ### Backend
 
 * Node.js
-* Express
-* NestJS
+* Nest.js
 * APIs REST
 
 ### Banco de Dados
@@ -40,10 +39,13 @@
 
 ### Infraestrutura & DevOps
 
-* Docker
+* AWS
 * Kubernetes
+* ArgoCD
+* Terraform
+* Service Mesh (Istio)
+* Docker
 * GitHub Actions
 * CI/CD
-* Kong API Gateway
 * ArgoCD
 * Coroot
