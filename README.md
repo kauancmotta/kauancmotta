@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Kauan%20Motta&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="Kauan Motta - Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Kauan%20Correia%20Motta&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="Kauan Correia Motta - Full Stack Developer" />
 
 <a href="https://github.com/kauancmotta">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Node.js+%2B+TypeScript+%2B+NestJS;Vue.js+%26+React+no+front-end;Cloud%2C+Kubernetes+e+CI%2FCD;Construindo+produtos+escal%C3%A1veis" alt="Typing SVG" />
