@@ -97,15 +97,6 @@ Olá! Sou o Kauan, desenvolvedor Full Stack apaixonado por transformar problemas
 
 <br/>
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauancmotta&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancmotta&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauancmotta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
