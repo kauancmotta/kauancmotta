@@ -97,8 +97,6 @@ Olá! Sou o Kauan, desenvolvedor Full Stack apaixonado por transformar problemas
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kauancmotta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 <br/>
